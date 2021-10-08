@@ -1,4 +1,4 @@
-# Pixel-Art-Maker
+# Web App Name
 <h1> Pixel Art Maker </h1>
 
 <p>Funny Little Web App
